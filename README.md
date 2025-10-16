@@ -51,16 +51,16 @@ Jenkins를 통한 CI/CD 자동화 파이프라인을 구축했습니다.
 ---
 
 ## 배포 구조
-[GitLab Repository]
-        ↓ (Webhook)
-[Jenkins Server - CI/CD Pipeline]
-        ↓
-[Docker Build & Deploy]
-        ↓
-[Nginx Reverse Proxy]
-        ├─ [Frontend - Next.js]
-        ├─ [Backend - FastAPI]
-        └─ [Database - PostgreSQL]
+[GitLab Repository]  
+↓ (Webhook)  
+[Jenkins Server - CI/CD Pipeline]  
+↓  
+[Docker Build & Deploy]  
+↓  
+[Nginx Reverse Proxy]  
+├─ [Frontend - Next.js]  
+├─ [Backend - FastAPI]  
+└─ [Database - PostgreSQL]
 
 
 ---
