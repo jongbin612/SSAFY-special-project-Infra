@@ -1,4 +1,4 @@
-# 홈피티 (HomePT)<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d1faec8c-a60f-419e-bb82-8a757452b5d8" />
+# 홈피티 (HomePT)<img width="256" height="150" alt="image" src="https://github.com/user-attachments/assets/d1faec8c-a60f-419e-bb82-8a757452b5d8" />
 
 
 AI 트레이너 기반 홈 트레이닝 서비스입니다.  
